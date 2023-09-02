@@ -1,6 +1,6 @@
 
 # My Django Projects
 
-1. <a href="Blog_site/">Blog Site</a>
+1. <a href="Blog_Site/">Blog Site</a>
 
 
