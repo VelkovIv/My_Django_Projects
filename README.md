@@ -1,5 +1,5 @@
 
-# My-<img height="50" src="C:\Users\Jack\Documents\Python-Django.png"/>-Projects
+# My Django Projects
 
 1. <a href="Blog_site/">Blog Site</a>
 
